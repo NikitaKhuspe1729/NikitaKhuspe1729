@@ -1,11 +1,11 @@
 <h1 align="center">Your design BFF Nikita</h1>
 <h3 align="center">Designing since 2021. Still figuring out the intro.</h3>
-<img align="right" alt="design" width="400" src="https://cdn.dribbble.com/users/729829/screenshots/3088470/galshir-pen-tool-creation.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitakhuspe1729&label=Profile%20views&color=0e75b6&style=flat" alt="nikitakhuspe1729" /> </p>
 
 - 🔭 I’m currently working on **Digital art**
-<img align="right" alt="design" width="400" src="https://media.itsnicethat.com/original_images/yiting-nan-YN_SVA_Motion_Screening_2022_02.gif">
+
 
 - 🌱 I’m currently learning **Designing**
 
