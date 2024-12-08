@@ -20,7 +20,7 @@
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1FwP_ntO2Ys4DmMdHjC-BSq3D4LOf-sB8?usp=sharing](https://drive.google.com/drive/folders/1FwP_ntO2Ys4DmMdHjC-BSq3D4LOf-sB8?usp=sharing)
 
 - ⚡ Fun fact **My job is 80% undo and 20% redo.**
-<img align="right" alt="design" width="400" src="https://www.graphicpear.com/wp-content/uploads/2016/11/boy-1-gif.gif">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,4 +39,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikitakhuspe1729&" alt="nikitakhuspe1729" /></p>
 
-<img align="right" alt="design" width="400" src="https://i.pinimg.com/originals/f5/2d/c9/f52dc984cb4b1a269ca4da7389618dd4.gif">
+
