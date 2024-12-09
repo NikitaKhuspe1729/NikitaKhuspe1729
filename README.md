@@ -6,9 +6,6 @@
 
 - 🔭 I’m currently working on **Digital art**
 
-
-- 🌱 I’m currently learning **Designing**
-
 - 👯 I’m looking to work on **Product designing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NikitaKhuspe1729?tab=stars](https://github.com/NikitaKhuspe1729?tab=stars)
