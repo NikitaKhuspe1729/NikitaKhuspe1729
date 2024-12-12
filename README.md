@@ -36,8 +36,8 @@
   <a href="https://www.capcut.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/3ae893ab-8ec0-4c60-bfde-b7cd464ea617" alt="lightroom" width="100" height="100"/> </a> </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikitakhuspe1729&show_icons=true&locale=en&color=151515" alt="nikitakhuspe1729" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikitakhuspe1729&show_icons=true&locale=en" alt="nikitakhuspe1729" /></p>
 
-<p><img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikitakhuspe1729&color=151515" alt="nikitakhuspe1729" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikitakhuspe1729&" alt="nikitakhuspe1729" /></p>
 <img display="flex" justify-content="center" align="center" width="50%" alt="design" width="300" src="https://www.graphicpear.com/wp-content/uploads/2016/11/boy-1-gif.gif">
 
