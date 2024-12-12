@@ -29,8 +29,7 @@
 </p>
 
 <h3 align="left">Design Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.dribbble.com/users/958158/screenshots/16002252/media/a0398db04cc22ab25a5704cc55362908.gif" alt="figma" width="100" height="100"/> </a> <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.dribbble.com/users/66200/screenshots/3981724/canva-logo.gif" alt="canva" width="100" height="100"/> </a> <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="![png-transparent-android-google-play-android-blue-angle-text-thumbnail-removebg-preview](https://github.com/user-attachments/assets/c7f531a6-8722-4928-b879-a4c16c490d75)
-" alt="canva" width="100" height="100"/> </a> </p>
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.dribbble.com/users/958158/screenshots/16002252/media/a0398db04cc22ab25a5704cc55362908.gif" alt="figma" width="100" height="100"/> </a> <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.dribbble.com/users/66200/screenshots/3981724/canva-logo.gif" alt="canva" width="100" height="100"/> </a> <a href="https://www.pixellab.com/" target="_blank" rel="noreferrer"> <img src="!https://github.com/user-attachments/assets/c7f531a6-8722-4928-b879-a4c16c490d75" alt="canva" width="100" height="100"/> </a> </p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikitakhuspe1729&show_icons=true&locale=en" alt="nikitakhuspe1729" /></p>
