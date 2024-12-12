@@ -29,7 +29,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg](https://cdn.domestika.org/c_fill,dpr_auto,f_auto,q_auto,w_767/v1640589317/content-items/009/980/320/01-original.gif?1640589317" alt="figma" width="200" height="200"/> </a> </p>
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.domestika.org/c_fill,dpr_auto,f_auto,q_auto,w_767/v1640589317/content-items/009/980/320/01-original.gif?1640589317" alt="figma" width="200" height="200"/> </a> </p>
 
 
 
