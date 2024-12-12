@@ -29,8 +29,7 @@
 </p>
 
 <h3 align="left">Design Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.domestika.org/c_fill,dpr_auto,f_auto,q_auto,w_767/v1640589317/content-items/009/980/320/01-original.gif?1640589317" alt="figma" width="400" height="350"/> </a> </p>
-
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.dribbble.com/users/958158/screenshots/16002252/media/a0398db04cc22ab25a5704cc55362908.gif" alt="figma" width="400" height="350"/> </a> <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.dribbble.com/users/66200/screenshots/3981724/canva-logo.gif" alt="canva" width="400" height="350"/> </a> <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.dribbble.com/users/66200/screenshots/3981724/canva-logo.gif" alt="canva" width="400" height="350"/> </a> </p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikitakhuspe1729&show_icons=true&locale=en" alt="nikitakhuspe1729" /></p>
