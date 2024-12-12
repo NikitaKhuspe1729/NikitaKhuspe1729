@@ -3,7 +3,7 @@
 <h4 align="center">Designing since 2021. Still figuring out the intro.</h4>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitakhuspe1729&label=Profile%20views&color=0e75b6&style=flat" alt="nikitakhuspe1729" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitakhuspe1729&label=Profile%20views&color=011627&style=flat" alt="nikitakhuspe1729" /> </p>
 
 ⦾ 🔭 I’m currently working on **Digital art**
 
