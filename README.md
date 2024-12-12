@@ -29,11 +29,11 @@
 </p>
 
 <h3 align="left">Design Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/8aa09e53-4cd3-4954-9dd9-5e71c883cd90" alt="figma" width="100" height="100"/> </a> 
-<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/caccd9e9-3f26-45f2-b932-67dd861f5c22" alt="canva" width="100" height="100"/> </a> 
-  <a href="https://play.google.com/store/apps/details?id=com.imaginstudio.imagetools.pixellab&pcampaignid=web_share" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/c7f531a6-8722-4928-b879-a4c16c490d75" alt="pixellab" width="100" height="100"/> </a> 
-  <a href="https://lightroom.adobe.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/df96098c-4882-4e31-8d70-6a1bd85fc314" alt="lightroom" width="100" height="100"/> </a> 
-  <a href="https://www.capcut.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/3ae893ab-8ec0-4c60-bfde-b7cd464ea617" alt="lightroom" width="100" height="100"/> </a> </p>
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/8aa09e53-4cd3-4954-9dd9-5e71c883cd90" alt="figma" width="50" height="50"/> </a> 
+<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/caccd9e9-3f26-45f2-b932-67dd861f5c22" alt="canva" width="50" height="50"/> </a> 
+  <a href="https://play.google.com/store/apps/details?id=com.imaginstudio.imagetools.pixellab&pcampaignid=web_share" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/c7f531a6-8722-4928-b879-a4c16c490d75" alt="pixellab" width="50" height="50"/> </a> 
+  <a href="https://lightroom.adobe.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/df96098c-4882-4e31-8d70-6a1bd85fc314" alt="lightroom" width="50" height="50"/> </a> 
+  <a href="https://www.capcut.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/58e87974-0489-44fe-a169-85e5ee245ae9" alt="capcut" width="50" height="50"/> </a> </p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikitakhuspe1729&show_icons=true&locale=en" alt="nikitakhuspe1729" /></p>
