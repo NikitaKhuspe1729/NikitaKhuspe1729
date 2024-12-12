@@ -28,8 +28,8 @@
 <a href="https://www.youtube.com/c/photoholiccaptures" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="photoholiccaptures" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.domestika.org/c_fill,dpr_auto,f_auto,q_auto,w_767/v1640589317/content-items/009/980/320/01-original.gif?1640589317" alt="figma" width="590" height="780"/> </a> </p>
+<h3 align="left">Design Tools:</h3>
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.domestika.org/c_fill,dpr_auto,f_auto,q_auto,w_767/v1640589317/content-items/009/980/320/01-original.gif?1640589317" alt="figma" width="400" height="350"/> </a> </p>
 
 
 
