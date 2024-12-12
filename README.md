@@ -3,7 +3,7 @@
 <h4 align="center">Designing since 2021. Still figuring out the intro.</h4>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitakhuspe1729&label=Profile%20views&color=011627&style=flat" alt="nikitakhuspe1729" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitakhuspe1729&label=Profile%20views&color=1C6000&style=flat" alt="nikitakhuspe1729" /> </p>
 
 ⦾ 🔭 I’m currently working on **Digital art**
 
@@ -38,6 +38,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikitakhuspe1729&show_icons=true&locale=en" alt="nikitakhuspe1729" /></p>
 
-<p><img background-color="#011627" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikitakhuspe1729&" alt="nikitakhuspe1729" /></p>
+<p><img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikitakhuspe1729&color=151515" alt="nikitakhuspe1729" /></p>
 <img display="flex" justify-content="center" align="center" width="50%" alt="design" width="300" src="https://www.graphicpear.com/wp-content/uploads/2016/11/boy-1-gif.gif">
 
