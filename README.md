@@ -5,19 +5,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitakhuspe1729&label=Profile%20views&color=0e75b6&style=flat" alt="nikitakhuspe1729" /> </p>
 
-- 🔭 I’m currently working on **Digital art**
+⦾ 🔭 I’m currently working on **Digital art**
 
-- 👯 I’m looking to work on **Product designing**
+⦾ 👯 I’m looking to work on **Product designing**
 
-- 👨‍💻 All of my projects are available at [https://github.com/NikitaKhuspe1729?tab=stars](https://github.com/NikitaKhuspe1729?tab=stars)
+⦾ 👨‍💻 All of my projects are available at [https://github.com/NikitaKhuspe1729?tab=stars](https://github.com/NikitaKhuspe1729?tab=stars)
 
-- 💬 Ask me about **Figma**
+⦾ 💬 Ask me about **Figma**
 
-- 📫 How to reach me **khuspenikita@gmail.com**
+⦾ 📫 How to reach me **khuspenikita@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1FwP_ntO2Ys4DmMdHjC-BSq3D4LOf-sB8?usp=sharing](https://drive.google.com/drive/folders/1FwP_ntO2Ys4DmMdHjC-BSq3D4LOf-sB8?usp=sharing)
+⦾ 📄 Know about my experiences [https://drive.google.com/drive/folders/1FwP_ntO2Ys4DmMdHjC-BSq3D4LOf-sB8?usp=sharing](https://drive.google.com/drive/folders/1FwP_ntO2Ys4DmMdHjC-BSq3D4LOf-sB8?usp=sharing)
 
-- ⚡ Fun fact **My job is 80% undo and 20% redo.**
+⦾ 🎭 Fun fact **My job is 80% undo and 20% redo.**
 
 
 <h3 align="left">Connect with me:</h3>
@@ -29,7 +29,8 @@
 </p>
 
 <h3 align="left">Design Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.dribbble.com/users/958158/screenshots/16002252/media/a0398db04cc22ab25a5704cc55362908.gif" alt="figma" width="400" height="350"/> </a> <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.dribbble.com/users/66200/screenshots/3981724/canva-logo.gif" alt="canva" width="400" height="350"/> </a> <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.dribbble.com/users/66200/screenshots/3981724/canva-logo.gif" alt="canva" width="400" height="350"/> </a> </p>
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.dribbble.com/users/958158/screenshots/16002252/media/a0398db04cc22ab25a5704cc55362908.gif" alt="figma" width="100" height="100"/> </a> <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.dribbble.com/users/66200/screenshots/3981724/canva-logo.gif" alt="canva" width="100" height="100"/> </a> <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="![png-transparent-android-google-play-android-blue-angle-text-thumbnail-removebg-preview](https://github.com/user-attachments/assets/c7f531a6-8722-4928-b879-a4c16c490d75)
+" alt="canva" width="100" height="100"/> </a> </p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikitakhuspe1729&show_icons=true&locale=en" alt="nikitakhuspe1729" /></p>
