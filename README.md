@@ -1,5 +1,6 @@
-<h1 align="center">Your design BFF Nikita</h1>
-<h3 align="center">Designing since 2021. Still figuring out the intro.</h3>
+<h2 align="center">Yᴏᴜʀ ᴅᴇsɪɢɴ BFF</h2>
+<h1 align="center">ᑎIKITᗩ </h1>
+<h4 align="center">Designing since 2021. Still figuring out the intro.</h4>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitakhuspe1729&label=Profile%20views&color=0e75b6&style=flat" alt="nikitakhuspe1729" /> </p>
@@ -35,5 +36,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikitakhuspe1729&show_icons=true&locale=en" alt="nikitakhuspe1729" /></p>
 
 <p><img background-color="#011627" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikitakhuspe1729&" alt="nikitakhuspe1729" /></p>
-<img display="flex" justify-content="center" align-items="center" width="50%" alt="design" width="400" src="https://www.graphicpear.com/wp-content/uploads/2016/11/boy-1-gif.gif">
+<img display="flex" justify-content="center" align="center" width="50%" alt="design" width="400" src="https://www.graphicpear.com/wp-content/uploads/2016/11/boy-1-gif.gif">
 
