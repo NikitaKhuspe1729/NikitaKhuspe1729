@@ -9,13 +9,13 @@
 
 ⦾ 👯 I’m looking to work on **Product designing**
 
-⦾ 👨‍💻 All of my projects are available at [https://github.com/NikitaKhuspe1729?tab=stars](https://github.com/NikitaKhuspe1729?tab=stars)
+⦾ 👨‍💻 All of my projects are available at https://github.com/NikitaKhuspe1729?tab=stars
 
 ⦾ 💬 Ask me about **Figma**
 
 ⦾ 📫 How to reach me **khuspenikita@gmail.com**
 
-⦾ 📄 Know about my experiences [https://drive.google.com/drive/folders/1FwP_ntO2Ys4DmMdHjC-BSq3D4LOf-sB8?usp=sharing](https://drive.google.com/drive/folders/1FwP_ntO2Ys4DmMdHjC-BSq3D4LOf-sB8?usp=sharing)
+⦾ 📄 Know about my experiences https://shorturl.at/amI6J
 
 ⦾ 🎭 Fun fact **My job is 80% undo and 20% redo.**
 
