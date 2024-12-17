@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitakhuspe1729&label=Profile%20views&color=1C6000&style=flat" alt="nikitakhuspe1729" /> </p>
 
-⦾ 🔭 I’m currently working on **Digital art**
+𓂃🖊 I’m currently working on **Digital art**
 
 ⦾ 👯 I’m looking to work on **Product designing**
 
