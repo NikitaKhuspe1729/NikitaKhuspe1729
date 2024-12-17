@@ -16,7 +16,7 @@
 
 » Know about my experiences https://shorturl.at/amI6J
 
-Fun fact **My job is 80% undo and 20% redo.** ☞☜ 
+🎭 Fun fact **My job is 80% undo and 20% redo.** 
 
 
 <h3 align="left">Connect with me:</h3>
