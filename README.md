@@ -3,7 +3,6 @@
 <h4 align="center">Designing since 2021. Still figuring out the intro.</h4>
 <img display="flex" justify-content="center" align="right" width="50%" alt="design" width="300" src="https://www.graphicpear.com/wp-content/uploads/2016/11/boy-1-gif.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitakhuspe1729&label=Profile%20views&color=1C6000&style=flat" alt="nikitakhuspe1729" /> </p>
 
 » I’m currently working on **Digital art**
