@@ -27,6 +27,7 @@
 <a href="https://www.youtube.com/c/photoholiccaptures" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="photoholiccaptures" height="30" width="40" /></a>
 </p>
 
+
 <h3 align="left">Design Tools:</h3>
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/8aa09e53-4cd3-4954-9dd9-5e71c883cd90" alt="figma" width="50" height="50"/> </a> 
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/caccd9e9-3f26-45f2-b932-67dd861f5c22" alt="canva" width="50" height="50"/> </a> 
