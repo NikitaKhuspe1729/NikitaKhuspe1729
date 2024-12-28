@@ -8,7 +8,7 @@
 
 » I’m currently working on **Digital art**
 
-» I’m looking to work on **Product designing**
+» I’m looking to work on **Product and Graphics designing**
 
 » Ask me about **Figma**
 
