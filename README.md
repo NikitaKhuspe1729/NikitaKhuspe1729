@@ -9,7 +9,6 @@
 
 » I’m looking to work on **Product and Graphics designing**
 
-
 » Ask me about **Figma**
 
 » How to reach me **khuspenikita@gmail.com**
