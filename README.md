@@ -36,6 +36,6 @@
   <a href="https://www.capcut.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/58e87974-0489-44fe-a169-85e5ee245ae9" alt="capcut" width="50" height="50"/> </a> </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikitakhuspe1729&show_icons=true&locale=en" alt="nikitakhuspe1729" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikitakhuspe1729&show_icons=true&locale=en" alt="nikitakhuspe1729" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikitakhuspe1729&" alt="nikitakhuspe1729" /></p> --!>
