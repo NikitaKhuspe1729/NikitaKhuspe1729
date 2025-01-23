@@ -37,7 +37,10 @@
   <a href="https://lightroom.adobe.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/df96098c-4882-4e31-8d70-6a1bd85fc314" alt="lightroom" width="50" height="50"/> </a> 
   <a href="https://www.capcut.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/58e87974-0489-44fe-a169-85e5ee245ae9" alt="capcut" width="50" height="50"/> </a> 
   <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/b252f61a-4846-4e1f-9222-0f46039ea5d2" alt="framer" width="50" height="50"/> </a> </p>
-![download-removebg-preview](https://github.com/user-attachments/assets/0a4e57e7-8ad7-49c5-9f4f-cea81fc3fb2e)
+
+
+![download-removebg-preview](https://github.com/user-attachments/assets/abe2c19d-c92d-49c1-887b-cf3a70c8856d)
+
 
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikitakhuspe1729&show_icons=true&locale=en" alt="nikitakhuspe1729" /></p>
