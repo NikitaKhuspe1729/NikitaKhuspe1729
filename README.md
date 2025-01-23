@@ -36,10 +36,10 @@
   <a href="https://play.google.com/store/apps/details?id=com.imaginstudio.imagetools.pixellab&pcampaignid=web_share" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/c7f531a6-8722-4928-b879-a4c16c490d75" alt="pixellab" width="50" height="50"/> </a> 
   <a href="https://lightroom.adobe.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/df96098c-4882-4e31-8d70-6a1bd85fc314" alt="lightroom" width="50" height="50"/> </a> 
   <a href="https://www.capcut.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/58e87974-0489-44fe-a169-85e5ee245ae9" alt="capcut" width="50" height="50"/> </a> 
-  <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/b252f61a-4846-4e1f-9222-0f46039ea5d2" alt="framer" width="50" height="50"/> </a> </p>
+  <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/b252f61a-4846-4e1f-9222-0f46039ea5d2" alt="framer" width="100" height="100"/> </a> </p>
 
 
-![download-removebg-preview](https://github.com/user-attachments/assets/abe2c19d-c92d-49c1-887b-cf3a70c8856d)
+
 
 
 
