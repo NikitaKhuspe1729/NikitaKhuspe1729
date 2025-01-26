@@ -26,6 +26,7 @@
 <a href="https://linkedin.com/in/nikita-khuspe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikita-khuspe" height="30" width="40" /></a>
 <a href="https://www.behance.net/nikitakhuspe1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="nikitakhuspe1729" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/photoholiccaptures" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="photoholiccaptures" height="30" width="40" /></a>
+  <a href="https://dribbble.com/NikitaKhuspe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribble.svg" alt="nikitakhuspe1729" height="30" width="40" /></a>
 </p>
 
 
