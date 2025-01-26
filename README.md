@@ -22,11 +22,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/khuspenikita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khuspenikita" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/nikita-khuspe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikita-khuspe" height="30" width="40" /></a>
 <a href="https://www.behance.net/nikitakhuspe1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="nikitakhuspe1729" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/photoholiccaptures" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="photoholiccaptures" height="30" width="40" /></a>
   <a href="https://dribbble.com/NikitaKhuspe" target="blank"><img align="center" src="https://github.com/user-attachments/assets/f74488e2-e68d-434f-9bf2-ef1f52d41f11" alt="nikitakhuspe1729" height="30" width="30" /></a>
+  <a href="https://twitter.com/khuspenikita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khuspenikita" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/photoholiccaptures" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="photoholiccaptures" height="30" width="40" /></a>
+
 </p>
 
 
