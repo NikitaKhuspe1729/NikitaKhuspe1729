@@ -38,7 +38,7 @@
   <a href="https://play.google.com/store/apps/details?id=com.imaginstudio.imagetools.pixellab&pcampaignid=web_share" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/c7f531a6-8722-4928-b879-a4c16c490d75" alt="pixellab" width="50" height="50"/> </a> 
   <a href="https://lightroom.adobe.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/df96098c-4882-4e31-8d70-6a1bd85fc314" alt="lightroom" width="50" height="50"/> </a> 
   <a href="https://www.capcut.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/58e87974-0489-44fe-a169-85e5ee245ae9" alt="capcut" width="50" height="50"/> </a> 
-  <a href="https://www.photoshop.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/b3e218f2-c88d-48d6-a1f5-7cdf0ef3edc2)" alt="capcut" width="50" height="50"/> </a> 
+  <a href="https://www.photoshop.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/b3e218f2-c88d-48d6-a1f5-7cdf0ef3edc2" alt="photoshop" width="50" height="50"/> </a> 
   <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/bcbdfbc6-c23c-4a13-8f86-e0051d208498" alt="framer" width="50" height="50"/> </a> </p>
 
 
