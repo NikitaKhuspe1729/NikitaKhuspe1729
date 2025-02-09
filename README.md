@@ -27,9 +27,6 @@
 <a href="https://play.google.com/store/apps/details?id=com.imaginstudio.imagetools.pixellab&pcampaignid=web_share" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/c7f531a6-8722-4928-b879-a4c16c490d75" alt="pixellab" width="50" height="50"/> </a> 
 </p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikitakhuspe1729&" alt="nikitakhuspe1729" ></p> --!>
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitakhuspe1729&label=Profile%20views&color=1C6000&style=flat" alt="nikitakhuspe1729" /> </p>
 » Portfolio link https://drive.google.com/file/d/1HTQFzEIvWnSlMNDl3PYaDLe7-zQLmSTg/view?usp=sharing
