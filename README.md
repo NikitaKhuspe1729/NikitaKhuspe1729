@@ -1,7 +1,7 @@
 <h2 align="center">Yᴏᴜʀ ᴅᴇsɪɢɴ BFF</h2>
 <h1 align="center">ᑎIKITᗩ </h1>
 <h4 align="center">Designing since 2021. Still figuring out the intro.</h4>
-<img display="flex" justify-content="center" align="right" width="50%" alt="design" width="300" src="https://www.graphicpear.com/wp-content/uploads/2016/11/boy-1-gif.gif">
+<img display="flex" justify-content="center" align="right" width="30%" alt="design" width="200" src="https://www.graphicpear.com/wp-content/uploads/2016/11/boy-1-gif.gif">
 
 
 
