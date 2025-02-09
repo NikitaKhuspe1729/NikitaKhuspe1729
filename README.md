@@ -14,7 +14,7 @@
 
 » How to reach me **khuspenikita@gmail.com**
 
-» Know about my experiences https://shorturl.at/amI6J
+» Know about my experiences https://drive.google.com/file/d/1eYZtJn93oR_2pcinFSrlB_IFbJN0WewL/view?usp=sharing
 
 
 🎭 Fun fact **My job is 80% undo and 20% redo.** 
