@@ -28,6 +28,7 @@
   <a href="https://www.capcut.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/58e87974-0489-44fe-a169-85e5ee245ae9" alt="capcut" width="50" height="50"/> </a> 
   <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/bcbdfbc6-c23c-4a13-8f86-e0051d208498" alt="framer" width="50" height="50"/> </a> 
 <a href="https://play.google.com/store/apps/details?id=com.imaginstudio.imagetools.pixellab&pcampaignid=web_share" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/c7f531a6-8722-4928-b879-a4c16c490d75" alt="pixellab" width="50" height="50"/> </a> 
+  <a href="https://www.photopea.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/8c98fee0-7602-452d-b79b-cf7996602ede" alt="framer" width="50" height="50"/> </a> 
 </p>
 
 
