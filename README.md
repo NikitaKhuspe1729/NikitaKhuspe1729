@@ -23,6 +23,7 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/8aa09e53-4cd3-4954-9dd9-5e71c883cd90" alt="figma" width="50" height="50"/> </a> 
    <a href="https://www.photoshop.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/b3e218f2-c88d-48d6-a1f5-7cdf0ef3edc2" alt="photoshop" width="50" height="50"/> </a> 
     <a href="https://lightroom.adobe.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/df96098c-4882-4e31-8d70-6a1bd85fc314" alt="lightroom" width="50" height="50"/> </a> 
+  <a href="https://www.adobe.com/in/express/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/da865f36-1bf5-4040-ba29-3604e122c0a4" alt="framer" width="50" height="50"/> </a> 
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/caccd9e9-3f26-45f2-b932-67dd861f5c22" alt="canva" width="50" height="50"/> </a> 
   <a href="https://www.capcut.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/58e87974-0489-44fe-a169-85e5ee245ae9" alt="capcut" width="50" height="50"/> </a> 
   <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/bcbdfbc6-c23c-4a13-8f86-e0051d208498" alt="framer" width="50" height="50"/> </a> 
