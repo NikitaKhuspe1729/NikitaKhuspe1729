@@ -46,7 +46,8 @@
 
 
 🎭 **My job is 80% undo and 20% redo.** 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikitakhuspe1729&show_icons=true&locale=en" alt="nikitakhuspe1729" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikitakhuspe1729&" alt="nikitakhuspe1729" ></p>
+
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikitakhuspe1729&show_icons=true&locale=en" alt="nikitakhuspe1729" /></p> --!>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikitakhuspe1729&" alt="nikitakhuspe1729" ></p> --!>
