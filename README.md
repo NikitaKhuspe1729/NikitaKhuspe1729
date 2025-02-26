@@ -20,7 +20,7 @@
 
 <h3 align="left">Design Tools:</h3>
 <p align="left"> 
-  <a href="https://www.sketchbook.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/e451cb88-31a8-4910-8be1-b091c082dcc3" alt="sketchbook" width="50" height="50"/> </a> 
+  <a href="https://www.sketchbook.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/e451cb88-31a8-4910-8be1-b091c082dcc3" alt="sketchbook" width="60" height="50"/> </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/8aa09e53-4cd3-4954-9dd9-5e71c883cd90" alt="figma" width="50" height="50"/> </a> 
    <a href="https://www.photoshop.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/b3e218f2-c88d-48d6-a1f5-7cdf0ef3edc2" alt="photoshop" width="50" height="50"/> </a> 
   <a href="https://www.illustrator.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/38bc19a1-6ae1-49b5-b87b-f0236408d931" alt="illustrator" width="50" height="50"/> </a> 
