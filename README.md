@@ -20,6 +20,20 @@
 </p>
 
 
+<h3 align="left">Want to hire me?</h3>
+<p align="left">
+
+<a href="https://contra.com/nikita_khuspe_ndolu7el?utm_campaign=social_sharing&utm_medium=independent_share&utm_source=copy_link" target="blank"><img align="center" src="https://github.com/user-attachments/assets/3deb7bcb-8803-4218-8852-8aa60ee373ac" alt="nikita-khuspe" height="50" width="50" /></a>
+<a href="https://99designs.com/profiles/11338229" target="blank"><img align="center" src="https://github.com/user-attachments/assets/12dce0d4-94fb-4c17-8d36-72e1e30cf00a" alt="nikitakhuspe1729" height="50" width="50" /></a>
+<a href="https://www.behance.net/nikitakhuspe1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="nikitakhuspe1729" height="50" width="50" /></a>
+  <a href="https://dribbble.com/NikitaKhuspe" target="blank"><img align="center" src="https://github.com/user-attachments/assets/f74488e2-e68d-434f-9bf2-ef1f52d41f11" alt="nikitakhuspe1729" height="50" width="50" /></a>
+  <a href="https://www.upwork.com/freelancers/~01ec6a6181fcce0deb?mp_source=share" target="blank"><img align="center" src="https://github.com/user-attachments/assets/ac569db9-9a2d-4ade-a93e-0ca6acdb4bbe" alt="khuspenikita" height="30" width="50" /></a>
+</p>
+
+
+
+
+
 <h3 align="left">My best friends</h3>
 <p align="left"> 
    <a href="https://www.sketchbook.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/068093a1-a3cd-4c26-8be7-1a33cd92c614" alt="sketchbook" width="50" height="50"/> </a> 
