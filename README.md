@@ -4,7 +4,7 @@
 <img display="flex" justify-content="center" align="right" width="40%" alt="design" width="300" src="https://www.graphicpear.com/wp-content/uploads/2016/11/boy-1-gif.gif">
 
 🔗
-<a href="https://drive.google.com/file/d/1HTQFzEIvWnSlMNDl3PYaDLe7-zQLmSTg/view?usp=sharing">Portfolio</a> <br>
+<a href="https://drive.google.com/file/d/1TnXaUDdf0m1vfvCcWA3yJ-CKoc-gkLba/view?usp=sharing">Portfolio</a> <br>
 🔗 <a href="https://drive.google.com/file/d/1eYZtJn93oR_2pcinFSrlB_IFbJN0WewL/view?usp=sharing">Resume</a> <br>
 
 
